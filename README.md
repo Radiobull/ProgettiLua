@@ -1,7 +1,7 @@
 # lua
 ## fuggire da astolfo
 fuggire da astolfo è un remake di [scappa da astolfo](https://github.com/Radiobull/ProgettiCpp/tree/main/scappaDaAstolfo), l'obbietivo del gioco è riuscire a fuggire da astolfo che tentera di catturarci.
-* z/x visualizza e nasconde le coordinate del giocarore e di Astolfo.
+* z/x visualizza e nasconde le coordinate del giocatore e di Astolfo.
 * <^v> muove nelle rispettove freccie nerd emoji.
 
 ## macrohard flight simulator
